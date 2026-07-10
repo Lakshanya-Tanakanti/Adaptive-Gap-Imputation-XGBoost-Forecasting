@@ -1,0 +1,5 @@
+Boundary,Best,Best_RMSE,Worst,Worst_RMSE,Linear_RMSE,Spline_RMSE,Diagonal Climatology_RMSE,LOCF_RMSE,Adaptive Imputation_RMSE
+stable,Adaptive Imputation,1.196,Spline,2.824,1.511,2.824,1.544,1.614,1.196
+rising,Adaptive Imputation,1.979,LOCF,3.36,2.138,2.941,2.171,3.36,1.979
+falling,Linear,1.072,LOCF,2.498,1.072,1.767,2.047,2.498,1.238
+crossing,Diagonal Climatology,1.814,LOCF,3.682,1.831,2.603,1.814,3.682,2.187

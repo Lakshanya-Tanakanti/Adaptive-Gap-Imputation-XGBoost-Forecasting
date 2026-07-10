@@ -1,0 +1,42 @@
+Gap_num,Start_row,End_row,Gap_size,Length_class,Boundary_class,Condition,Neighbor_count,CV_fold,Chosen_method
+1,5834,5852,19,medium,crossing,extreme_high_temp,24,4,Diagonal Climatology
+2,12599,12601,3,short,rising,stagnant_wind,24,3,Linear
+3,507,525,19,medium,crossing,normal,24,1,Diagonal Climatology
+4,13245,13283,39,long,rising,normal,24,4,Diagonal Climatology
+5,9011,9027,17,medium,falling,normal,24,4,Spline
+6,4406,4420,15,medium,crossing,high_temp,24,1,Diagonal Climatology
+7,5409,5411,3,short,stable,extreme_high_temp,24,4,Linear
+8,12909,12911,3,short,stable,stagnant_wind,24,2,Linear
+9,243,251,9,medium,stable,low_temp,24,2,Linear
+10,1732,1750,19,medium,crossing,normal,24,3,Spline
+11,5443,5461,19,medium,rising,extreme_high_temp,24,3,Spline
+12,12436,12438,3,short,crossing,stagnant_wind,24,2,Spline
+13,3256,3302,47,long,crossing,normal,24,1,Spline
+14,11782,11806,25,long,stable,stagnant_wind,12,1,Diagonal Climatology
+15,13301,13315,15,medium,crossing,low_temp,24,3,Spline
+16,13359,13361,3,short,crossing,low_temp,24,4,Spline
+17,6797,6799,3,short,stable,normal,24,1,Linear
+18,908,942,35,long,crossing,low_temp,24,2,Spline
+19,1071,1073,3,short,crossing,low_temp,24,0,Spline
+20,11990,11994,5,short,stable,stagnant_wind,24,1,Linear
+21,702,712,11,medium,falling,normal,24,1,Spline
+22,2173,2177,5,short,crossing,low_temp,24,0,Spline
+23,110,116,7,medium,crossing,low_temp,24,4,Diagonal Climatology
+24,6688,6692,5,short,stable,normal,24,1,Linear
+25,3751,3757,7,medium,stable,stagnant_wind,22,0,Linear
+26,3074,3096,23,medium,crossing,normal,24,3,Spline
+27,8007,8051,45,long,stable,normal,24,0,Diagonal Climatology
+28,13031,13047,17,medium,crossing,normal,24,0,Diagonal Climatology
+29,10507,10507,1,short,stable,stagnant_wind,11,4,Linear
+30,3879,3905,27,long,stable,normal,24,3,Diagonal Climatology
+31,270,274,5,short,stable,normal,24,4,Linear
+32,2224,2262,39,long,crossing,normal,24,2,Spline
+33,11929,11935,7,medium,stable,normal,24,0,Linear
+34,10506,10548,42,long,stable,normal,24,2,Diagonal Climatology
+35,3791,3811,21,medium,crossing,normal,24,3,Spline
+36,12635,12641,7,medium,crossing,stagnant_wind,24,2,Diagonal Climatology
+37,5052,5064,13,medium,rising,normal,24,0,Spline
+38,3749,3750,2,short,stable,stagnant_wind,17,3,Linear
+39,13389,13425,37,long,crossing,normal,24,0,Spline
+40,11764,11781,18,medium,stable,normal,12,2,Linear
+41,7174,7202,29,long,falling,normal,24,0,Diagonal Climatology

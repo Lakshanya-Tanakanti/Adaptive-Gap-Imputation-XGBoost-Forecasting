@@ -1,0 +1,5 @@
+Missing %,Method,MAE,MAE_std,RMSE,RMSE_std,R2,R2_std,Bias,Bias_std,MAPE_%,MAPE_std
+5%,Adaptive Imputation,0.36,0.003,0.499,0.004,0.9791,0.0003,0.236,0.01,1.72,0.016
+10%,Adaptive Imputation,0.373,0.011,0.52,0.013,0.9772,0.0011,0.242,0.014,1.78,0.047
+15%,Adaptive Imputation,0.375,0.006,0.523,0.008,0.9771,0.0007,0.232,0.011,1.801,0.03
+20%,Adaptive Imputation,0.388,0.011,0.524,0.013,0.9769,0.0011,0.244,0.018,1.837,0.052

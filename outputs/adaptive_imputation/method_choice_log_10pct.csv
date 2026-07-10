@@ -1,0 +1,84 @@
+Gap_num,Start_row,End_row,Gap_size,Length_class,Boundary_class,Condition,Neighbor_count,CV_fold,Chosen_method
+1,5834,5852,19,medium,crossing,extreme_high_temp,24,1,Diagonal Climatology
+2,12599,12601,3,short,rising,stagnant_wind,24,1,Linear
+3,507,525,19,medium,crossing,normal,20,4,Linear
+4,13245,13283,39,long,rising,normal,20,1,Diagonal Climatology
+5,9011,9027,17,medium,falling,normal,24,3,Spline
+6,4406,4420,15,medium,crossing,high_temp,24,2,Diagonal Climatology
+7,5409,5411,3,short,stable,extreme_high_temp,24,1,Linear
+8,12909,12911,3,short,stable,stagnant_wind,24,2,Linear
+9,243,251,9,medium,stable,low_temp,24,4,Linear
+10,1732,1750,19,medium,crossing,normal,24,0,Diagonal Climatology
+11,5443,5461,19,medium,stable,extreme_high_temp,4,1,Linear
+12,12436,12438,3,short,crossing,stagnant_wind,24,3,Spline
+13,3256,3302,47,long,crossing,normal,24,4,Spline
+14,11782,11806,25,long,stable,stagnant_wind,12,4,Diagonal Climatology
+15,13301,13315,15,medium,crossing,low_temp,24,1,Diagonal Climatology
+16,13359,13361,3,short,crossing,low_temp,24,3,Spline
+17,6797,6799,3,short,stable,normal,24,3,Linear
+18,908,942,35,long,crossing,low_temp,24,2,Spline
+19,1071,1073,3,short,crossing,low_temp,24,4,Spline
+20,11990,11994,5,short,stable,stagnant_wind,24,0,Linear
+21,702,712,11,medium,falling,normal,24,3,Spline
+22,2173,2177,5,short,crossing,low_temp,24,3,Spline
+23,110,116,7,medium,crossing,low_temp,24,2,Diagonal Climatology
+24,6688,6692,5,short,stable,normal,24,0,Linear
+25,3751,3757,7,medium,stable,stagnant_wind,22,3,Diagonal Climatology
+26,3074,3096,23,medium,crossing,normal,24,2,Diagonal Climatology
+27,8007,8051,45,long,stable,normal,24,1,Diagonal Climatology
+28,13031,13047,17,medium,crossing,normal,24,4,Linear
+29,10507,10507,1,short,stable,stagnant_wind,0,0,LOCF
+30,3879,3905,27,long,stable,normal,24,0,Diagonal Climatology
+31,270,274,5,short,stable,normal,24,0,Linear
+32,2224,2262,39,long,crossing,normal,24,3,Spline
+33,11929,11935,7,medium,stable,normal,24,4,Linear
+34,10506,10548,42,long,stable,normal,12,1,Diagonal Climatology
+35,3791,3811,21,medium,crossing,normal,24,4,Linear
+36,12635,12641,7,medium,crossing,stagnant_wind,24,3,Diagonal Climatology
+37,5052,5064,13,medium,rising,normal,24,2,Spline
+38,3749,3750,2,short,stable,stagnant_wind,17,4,Linear
+39,13389,13425,37,long,crossing,normal,24,3,Spline
+40,11764,11781,18,medium,stable,normal,12,4,Linear
+41,7174,7216,43,long,falling,normal,24,4,Diagonal Climatology
+42,12505,12541,37,long,crossing,normal,24,0,Spline
+43,7404,7444,41,long,stable,normal,24,1,Diagonal Climatology
+44,2892,2914,23,medium,crossing,high_temp,24,4,Linear
+45,12035,12037,3,short,stable,low_temp,22,3,Linear
+46,9347,9383,37,long,stable,normal,24,0,Diagonal Climatology
+47,8174,8174,1,short,stable,low_temp,24,1,Linear
+48,5435,5481,28,long,stable,high_temp,24,3,Diagonal Climatology
+49,597,603,7,medium,rising,normal,24,2,Spline
+50,3495,3501,7,medium,stable,normal,21,0,Diagonal Climatology
+51,3346,3348,3,short,crossing,high_temp,24,0,Spline
+52,206,214,9,medium,crossing,normal,24,2,Diagonal Climatology
+53,13220,13236,17,medium,stable,normal,20,2,Linear
+54,3990,3998,9,medium,stable,stagnant_wind,24,2,Linear
+55,3685,3717,33,long,stable,normal,24,4,Diagonal Climatology
+56,8239,8245,7,medium,stable,normal,24,2,Linear
+57,478,498,21,medium,crossing,low_temp,20,3,Diagonal Climatology
+58,5151,5153,3,short,rising,normal,24,2,Linear
+59,11229,11253,25,long,rising,normal,24,0,Diagonal Climatology
+60,6206,6224,19,medium,crossing,high_temp,24,1,Diagonal Climatology
+61,3487,3489,3,short,falling,normal,17,4,Linear
+62,3847,3863,17,medium,crossing,normal,24,1,Diagonal Climatology
+63,2405,2421,17,medium,rising,low_temp,24,0,Spline
+64,9323,9325,3,short,stable,normal,24,2,Linear
+65,1377,1399,23,medium,crossing,normal,19,0,Diagonal Climatology
+66,5501,5505,5,short,stable,extreme_high_temp,24,0,Linear
+67,130,134,5,short,falling,normal,24,4,Linear
+68,12020,12024,5,short,rising,normal,22,2,Linear
+69,12724,12728,5,short,crossing,normal,24,1,Spline
+70,5952,5954,3,short,stable,normal,24,2,Linear
+71,1902,1926,25,long,crossing,normal,24,4,Spline
+72,1402,1406,5,short,stable,stagnant_wind,14,0,Linear
+73,2131,2133,3,short,rising,normal,24,1,Linear
+74,4158,4162,5,short,stable,extreme_high_temp,24,1,Linear
+75,4984,4986,3,short,rising,normal,24,2,Linear
+76,2321,2359,39,long,crossing,normal,24,1,Spline
+77,10284,10302,19,medium,crossing,normal,24,3,Diagonal Climatology
+78,5011,5015,5,short,crossing,extreme_high_temp,24,1,Spline
+79,10494,10505,12,medium,stable,normal,12,0,Diagonal Climatology
+80,1247,1271,25,long,crossing,normal,24,0,Spline
+81,3366,3402,37,long,stable,normal,24,3,Diagonal Climatology
+82,6096,6142,47,long,rising,normal,24,2,Diagonal Climatology
+83,847,863,17,medium,crossing,normal,24,3,Diagonal Climatology
