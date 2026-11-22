@@ -123,7 +123,3 @@ adaptive imputation, comparison reports, etc.).
   5 random seeds (mean ± std), not a single run.
 - **Publication-quality plots**: every figure the pipeline produces is
   enforced to ≥300 DPI with a tight, white-background crop.
-
-## License
-
-Add your license of choice here before publishing.
